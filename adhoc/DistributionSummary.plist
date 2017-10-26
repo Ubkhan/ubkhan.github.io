@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ComeonBusADT.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+				<key>dateExpires</key>
+				<string>2018. 1. 2.</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AFNetworking.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>BEMCheckBox.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>BFPaperCheckbox.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Bolts.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Cordova.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FMDB.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FMDBHelpers.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleToolboxForMac.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>InAppSettingsKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>JSONModel.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>M13Checkbox.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Pager.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Parse.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Protobuf.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>QuickDialog.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SVProgressHUD.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>TSValidatedTextField.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>UIColor_BFPaperColors.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>UIScrollView_InfiniteScroll.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>iToast.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E0A589A06542676416E8252DDDCCDF9E4FA96B59</string>
+						<key>dateExpires</key>
+						<string>2018. 1. 2.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8278BVQ3J2</string>
+						<key>name</key>
+						<string>UB1st Co., Ltd.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8278BVQ3J2.com.ub1st.ios.ComeonBus.adtcaps</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8278BVQ3J2</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>ComeonBusADT.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7b2ba3a4-7f5c-4993-aac5-bc0f6af19ab7</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.ub1st.ios.ComeonBus.adtcaps</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8278BVQ3J2</string>
+				<key>name</key>
+				<string>UB1st Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
